@@ -1,0 +1,14 @@
+D
+A,B
+A,C
+A,F
+B,C
+C,D
+C,E
+D,E
+D,F
+C,A
+F,A
+D,C
+E,C
+E,D
